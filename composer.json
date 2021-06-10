@@ -1,0 +1,8 @@
+{
+    "name": "cc-generator/credit-card-generator",
+    "description": "Generate valid credit and debit card with money",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
